@@ -6,6 +6,8 @@ This project allows users to calculate their percentage easily by entering the t
 
 ---
 
+Live Demo Link =>https://vinayxcode.github.io/Percentage-Calculator/
+
 🧠 Features
 
 ✅ Responsive Design — Uses media queries to adjust layout across devices.
